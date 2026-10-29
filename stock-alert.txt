@@ -1,0 +1,4 @@
+Critical stock alert summary:
+- Check emergency blood units before 17:00.
+- Reconcile donor inventory with daily request log.
+- Escalate low inventory for O-negative and platelets.
